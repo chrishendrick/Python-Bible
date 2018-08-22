@@ -1,3 +1,5 @@
+# Health potion adds to user's health - 3 different difficulty levels
+
 import random
 
 difficulty = 1
