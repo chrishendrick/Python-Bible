@@ -1,4 +1,4 @@
-"""
+
 print('Hello World')
 print(2+2)
 
@@ -24,7 +24,7 @@ modulo = 5%3
 print(modulo)
 print(type(modulo))
 #modulo returns the remainder of the division, class int
-"""
+
 
 
 
