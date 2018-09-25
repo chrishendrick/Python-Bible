@@ -19,3 +19,7 @@ students.keys() #lists all the keys, not indexable - no [position] but...
 
 a = list(students.keys())
 print(a[1])
+
+print(students.values())
+
+print(students.items())
