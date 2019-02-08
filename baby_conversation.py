@@ -11,4 +11,3 @@ while answer != "just because":
     answer = input("But why????: ").strip().lower()
 
 print("That makes sense!")
-print("test")
